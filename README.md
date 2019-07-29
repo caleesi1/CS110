@@ -3,6 +3,7 @@
 ====================
 #### Table of Contents
 
+    Textbook: Starting Out With C++ 8th ed by Tony Gaddis
     Module 00 CH 1 Introduction to Computers and Programming 1
     Module 01 CH 2 Introduction to C++ 27
     Module 02 CH 3 Expressions and Interactivity 83
