@@ -2,7 +2,7 @@
 ## Introduction to ( C++ ) Programming
 ====================
 ### Textbook - Starting Out with C++ 8th Edition by Tony Gaddis
-Use *Google github "bookname"* to list public older revision pdf copies.
+*"Google github **textbook name**"* to list public older revision pdf copies.
     
     
 #### Table of Contents
